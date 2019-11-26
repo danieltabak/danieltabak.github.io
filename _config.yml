@@ -112,8 +112,7 @@ author:
   bio              : "Economics PhD candidate in University of Illinois at Urbana Champaign"
   location         : "Urbana, Il"
   email            : "danielr6@illinois.edu"
-  GitHub           : "danieltabak"
-  linkedin         : ""
+  github           : "danieltabak"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
